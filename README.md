@@ -37,5 +37,3 @@ This is a strong real troubleshooting sequence: failure -> investigation -> succ
 ## Step 8 — Validate allowed application traffic
 
 ![Screenshot](screenshots/10-http-connectivity-verified-status-200.png)
-
-The `setup-evidence/` folder contains the pfSense interface-assignment screenshot.
